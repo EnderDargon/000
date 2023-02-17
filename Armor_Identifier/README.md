@@ -8,7 +8,7 @@
   - [number_Identifier](#number_Identifier)
     - [extractNumbers](#extractNumbers)
     - [Identify](#Identify)
-
+-[Test](#test)
 ## Armor_Identifier
 封装armor_Detector类和number_Identifier类，并提供test（）测试接口。
 
@@ -63,3 +63,5 @@
 |      对于ROI每个模板所得的得分     |
 
 对模板和ROI中每个像素进行对比，并除与图片大小得到对于ROI每个模板所得的得分，挑选其最大值即为识别数字（得分过小置为-1表示匹配不上）
+## Test
+Test文件夹中包含运行测试的cpp和程序运行识别的录屏mp4。
