@@ -8,7 +8,7 @@
   - [number_Identifier](#number_Identifier)
     - [extractNumbers](#extractNumbers)
     - [Identify](#Identify)
--[Test](#test)
+- [Test](#test)
 ## Armor_Identifier
 封装armor_Detector类和number_Identifier类，并提供test（）测试接口。
 
